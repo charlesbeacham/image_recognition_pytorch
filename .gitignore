@@ -1,2 +1,4 @@
 .DS_Store
 connection.json
+.ipynb_checkpoints/*
+.virtual_documents/*
